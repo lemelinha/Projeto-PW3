@@ -31,4 +31,26 @@
             <h1 class="font-title">Pacotes de Viagem</h1>
         </div>
     </div>
+    <div class="row">
+        <div class="col-sm-3">
+            <div class="card">
+                <div class="card-body"></div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="card">
+                <div class="card-body"></div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="card">
+                <div class="card-body"></div>
+            </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="card">
+                <div class="card-body"></div>
+            </div>
+        </div>
+    </div>
 </section>
